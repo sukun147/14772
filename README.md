@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-电科在读学子，软工专业
+本人电科本科在读学子，软工专业
 
 兴趣爱好：
 
