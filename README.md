@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+电科在读学子，软工专业
+
+兴趣爱好：
+
+- 游戏（PC、手游）
+- 热爱技术
+- 看剧（不多）
+
+主要研究方向：运维
+
+联系方式：
+
+- email：[1477264431@qq.com](mailto:1477264431@qq.com)
+- csdn：https://blog.csdn.net/sk14772
