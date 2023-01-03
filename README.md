@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 
 兴趣爱好：
 
-- 游戏（PC、手游）
+- 游戏（PC）
 - 热爱技术
 - 看剧（不多）
 
-主要研究方向：运维
+主要研究方向：devops、图联邦学习
 
 联系方式：
 
 - email：[1477264431@qq.com](mailto:1477264431@qq.com)
-- csdn：https://blog.csdn.net/sk14772
