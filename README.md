@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-电科本科在读学子，软工专业
+电子科技大学在读本科，软件工程专业
 
 兴趣爱好：
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 热爱技术
 - 看剧（不多）
 
-主要研究方向：devops、后端开发（java）、图联邦学习
+主要研究方向：devops、后端开发（java）、联邦学习
 
 联系方式：
 
